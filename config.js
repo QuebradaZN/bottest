@@ -1,7 +1,7 @@
 var config = {
 	polling_interval : 50,
 	db: 'cs2',
-	host: '127.0.0.1',
+	host: '164.152.61.160',
 	user: 'root',
 	port: '3306',
 	password: 'Ha8sAascj1*2#2!@',
