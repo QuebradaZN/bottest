@@ -1,14 +1,14 @@
 var config = {
 	polling_interval : 50,
-	db: '',
-	host: '',
-	user: '',
-	port: '',
-	password: '',
+	db: 'cs2',
+	host: '127.0.0.1',
+	user: 'root',
+	port: '3306',
+	password: 'Ha8sAascj1*2#2!@',
 
-	admin: '76561198071550434',
+	admin: '76561198912211482',
 	
-	manager_domain: 'csgolynx.com',
+	manager_domain: '164.152.61.160',
 	manager_lang: 'en',
 	manager_cancelTime: 60000,
 
